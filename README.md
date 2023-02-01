@@ -16,7 +16,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
    Sim. As entidades Monitor, Falicitador Hard e Facilitador Soft e Matrícula.
 
  - Quais são os principais campos e tipos? <BR>
-  Os principais campos são os ID de cada entidade (as chaves primárias). A maioria dos campos são INT. 
+  Os principais campos são os ID de cada entidade (as chaves primárias). A maioria dos campos são INT/VARCHAR. 
 
  - Como essas entidades estão relacionadas? <BR>
    Dentro da modelagem desenvolvida, temos relacionamentos que são binários e ternários.
